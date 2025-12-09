@@ -23,7 +23,8 @@ API接口：支持Python、R、MATLAB等多种语言接入
 软件架构说明
  **数据来自网络采集整理，参考学习使用，我尽量保证数据的实时更新，准确性自己用代码分析一下** 
  作者微信
- ![image.png](https://raw.gitcode.com/user-images/assets/8630721/6fe7d9aa-afde-43cd-b28f-9cf95b2123f0/image.png 'image.png')
+![Uploading image.png…]()
+
 
 
 #### 安装教程
