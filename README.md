@@ -23,7 +23,9 @@ API接口：支持Python、R、MATLAB等多种语言接入
 软件架构说明
  **数据来自网络采集整理，参考学习使用，我尽量保证数据的实时更新，准确性自己用代码分析一下** 
  作者微信
-![Uploading image.png…]()
+<img width="1800" height="882" alt="image" src="https://github.com/user-attachments/assets/9328e1d4-f67f-4829-bc2b-089e32ea1ea8" />
+
+
 
 
 
